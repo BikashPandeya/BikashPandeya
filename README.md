@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Bikash%20Pandeya&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<p align="center">
+  <img src="https://vercel.app" alt="Soft Header" />
+</p>
+
 
 
 <p align="center">
@@ -26,9 +29,7 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=BikashPandeya&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bikash Pandeya's GitHub Trophies" />
 </p>
-<p align="center">
-  [![Bikash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BikashPandeya&theme=dracula)](https://github.com/BikashPandeya/github-readme-activity-graph)
-</p>
+
 
 
 ## 🛠️ Languages & Tools
