@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="https://vercel.app" alt="Soft Header" />
-</p>
-
-
-
-<p align="center">
   <a href="https://komarev.com/ghpvc/?username=BikashPandeya">
     <img src="https://komarev.com/ghpvc/?username=BikashPandeya&label=Profile%20views&color=00FFFF&style=flat-square" alt="BikashPandeya's profile views" />
   </a>
