@@ -27,7 +27,7 @@
   <img src="https://trophy.ryglcloud.net/?username=BikashPandeya&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bikash Pandeya's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=BikashPandeya&theme=onedark&radius=10" alt="BikashPandeya's Activity Graph" />
+  [![Bikash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BikashPandeya&theme=dracula)](https://github.com/BikashPandeya/github-readme-activity-graph)
 </p>
 
 
