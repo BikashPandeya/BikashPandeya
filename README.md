@@ -16,6 +16,9 @@
 - Machine Learning
 - Data Structures and Algorithm
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -28,7 +31,9 @@
   <img src="https://trophy.ryglcloud.net/?username=BikashPandeya&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bikash Pandeya's GitHub Trophies" />
 </p>
 
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 🛠️ Languages & Tools
 
@@ -88,6 +93,10 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BikashPandeya&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
   </a>
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
 
 ## 🔗 Connect with Me
 <p align="center">
