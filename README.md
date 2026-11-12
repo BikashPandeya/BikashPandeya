@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
+</div>
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=BikashPandeya">
     <img src="https://komarev.com/ghpvc/?username=BikashPandeya&label=Profile%20views&color=00FFFF&style=flat-square" alt="BikashPandeya's profile views" />
