@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/BikashPandeya">
-    <img height="180em" src="https://github-readme-stats.shion.dev/api?username=BikashPandeya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="BikashPandeya's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.shion.dev/api?username=BikashPandeya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=onedark&border_radius=10" alt="BikashPandeya's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=BikashPandeya&theme=onedark&hide_border=true&cache_seconds=86400" alt="BikashPandeya's GitHub Streak" width="49%" />
 </p>
