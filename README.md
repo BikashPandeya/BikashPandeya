@@ -21,19 +21,9 @@
 </div>
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/BikashPandeya">
-    <img height="180em" src="https://github-readme-stats.shion.dev/api?username=BikashPandeya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&theme=onedark&border_radius=10" alt="BikashPandeya's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=BikashPandeya&theme=onedark&hide_border=true&cache_seconds=86400" alt="BikashPandeya's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=BikashPandeya&theme=onedark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Bikash Pandeya's GitHub Trophies" />
-</p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
-</div>
+![](https://github-readme-stats.shion.dev/api?username=BikashPandeya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=BikashPandeya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BikashPandeya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🛠️ Languages & Tools
 
