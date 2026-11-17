@@ -78,11 +78,7 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/BikashPandeya">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BikashPandeya&langs_count=8&layout=compact&theme=onedark&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
